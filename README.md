@@ -1,2 +1,2 @@
 # Female-Participation-Rate
-Analysis of Female Force Participation Rate data on Kaggle
+Analysis of Female Labour Force Participation Rate data on Kaggle
